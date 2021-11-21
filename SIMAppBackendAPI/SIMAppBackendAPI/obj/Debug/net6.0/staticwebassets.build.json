@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IZFwO7fWbpAOi1tF6yYQIPlQyHs5zyEV0E0HbgkQlxE=",
+  "Source": "SIMAppBackendAPI",
+  "BasePath": "_content/SIMAppBackendAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
