@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nafi-Wafi\\source\\repos\\DotnetAPI\\DotnetAPI\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj": {}
+    "C:\\Users\\Nafi-Wafi\\source\\repos\\SIMApp_Final_Workable\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nafi-Wafi\\source\\repos\\DotnetAPI\\DotnetAPI\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj": {
+    "C:\\Users\\Nafi-Wafi\\source\\repos\\SIMApp_Final_Workable\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nafi-Wafi\\source\\repos\\DotnetAPI\\DotnetAPI\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Nafi-Wafi\\source\\repos\\SIMApp_Final_Workable\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj",
         "projectName": "SIMAppBackendAPI",
-        "projectPath": "C:\\Users\\Nafi-Wafi\\source\\repos\\DotnetAPI\\DotnetAPI\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj",
+        "projectPath": "C:\\Users\\Nafi-Wafi\\source\\repos\\SIMApp_Final_Workable\\SIMAppBackendAPI\\SIMAppBackendAPI\\SIMAppBackendAPI.csproj",
         "packagesPath": "C:\\Users\\Nafi-Wafi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nafi-Wafi\\source\\repos\\DotnetAPI\\DotnetAPI\\SIMAppBackendAPI\\SIMAppBackendAPI\\obj\\",
+        "outputPath": "C:\\Users\\Nafi-Wafi\\source\\repos\\SIMApp_Final_Workable\\SIMAppBackendAPI\\SIMAppBackendAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nafi-Wafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,22 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[10.1.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[8.1.1, )"
-            },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.AspNetCore.StaticFiles": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"

@@ -1,0 +1,7 @@
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.csproj.AssemblyReference.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.AssemblyInfoInputs.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.AssemblyInfo.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppBackendAPI\SIMAppBackendAPI\obj\Release\net6.0\SIMAppBackendAPI.MvcApplicationPartsAssemblyInfo.cache

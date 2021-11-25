@@ -34,39 +34,42 @@ namespace SIMAppBackendAPI.Models
             {
                 entity.ToTable("storage_info");
 
-                entity.Property(e => e.Id).HasColumnName("storage_info_id");
+                entity.Property(e => e.Id).HasColumnName("id");
 
-                entity.Property(e => e.CreateDate)
-                    .IsRowVersion()
-                    .IsConcurrencyToken()
-                    .HasColumnName("create_date");
+                entity.Property(e => e.ClientType)
+                    .HasMaxLength(255)
+                    .HasColumnName("client_type");
 
                 entity.Property(e => e.CustomerName)
                     .HasMaxLength(255)
                     .HasColumnName("customer_name");
+
+                entity.Property(e => e.Date)
+                    .HasMaxLength(255)
+                    .HasColumnName("date");
 
                 entity.Property(e => e.Description)
                     .HasMaxLength(1000)
                     .IsUnicode(false)
                     .HasColumnName("description");
 
-                entity.Property(e => e.EndMonth)
-                    .HasMaxLength(255)
-                    .HasColumnName("end_month");
-
                 entity.Property(e => e.Location)
                     .HasMaxLength(255)
                     .HasColumnName("location");
 
-                entity.Property(e => e.NumberOfStorage)
+                entity.Property(e => e.Status)
                     .HasMaxLength(255)
-                    .HasColumnName("number_of_storage");
+                    .HasColumnName("status");
 
-                entity.Property(e => e.StartMonth)
+                entity.Property(e => e.StorageType)
                     .HasMaxLength(255)
-                    .HasColumnName("start_month");
+                    .HasColumnName("storage_type");
 
                 entity.Property(e => e.TotalCost).HasColumnName("total_cost");
+
+                entity.Property(e => e.UnitNo)
+                    .HasMaxLength(255)
+                    .HasColumnName("unit_no");
             });
 
             modelBuilder.Entity<UserTab>(entity =>

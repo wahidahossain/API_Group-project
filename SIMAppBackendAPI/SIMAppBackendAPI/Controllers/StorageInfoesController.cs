@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -12,32 +11,11 @@ namespace SIMAppBackendAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class storageinfoesController : ControllerBase
+    public class StorageInfoesController : ControllerBase
     {
         private readonly lab3Context _context;
 
-        //Begining of mapper code-----------------------------
-        //private readonly IMapper _mapper;//-----------------------
-
-        //public StorageInfoesController(IMapper mapper)
-        //{
-        //    _mapper = mapper;
-        //}
-
-        //// POST api/<StorageInfoesController>
-        //[HttpPost]
-        //public IActionResult Post([FromBody] StorageInfoDTO _StorageInfoDTO)
-        //{
-        //    var StorageInfo = _mapper.Map<StorageInfo>(_StorageInfoDTO);
-        //    return Ok(StorageInfo);
-        //}
-
-        
-
-
-        //end of mapper code-----------------------------
-
-        public storageinfoesController(lab3Context context)
+        public StorageInfoesController(lab3Context context)
         {
             _context = context;
         }
@@ -65,7 +43,6 @@ namespace SIMAppBackendAPI.Controllers
 
         // PUT: api/StorageInfoes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        // [HttpPut("{id}")]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutStorageInfo(int id, StorageInfo storageInfo)
         {
@@ -97,7 +74,6 @@ namespace SIMAppBackendAPI.Controllers
 
         // POST: api/StorageInfoes
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-
         [HttpPost]
         public async Task<ActionResult<StorageInfo>> PostStorageInfo(StorageInfo storageInfo)
         {
@@ -106,7 +82,6 @@ namespace SIMAppBackendAPI.Controllers
 
             return CreatedAtAction("GetStorageInfo", new { id = storageInfo.Id }, storageInfo);
         }
-
 
         // DELETE: api/StorageInfoes/5
         [HttpDelete("{id}")]

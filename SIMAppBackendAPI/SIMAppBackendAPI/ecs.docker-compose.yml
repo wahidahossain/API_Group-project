@@ -1,0 +1,16 @@
+version: '2'
+services:
+  webapp:
+    image: 093797997223.dkr.ecr.us-east-1.amazonaws.com/asp-repo:latest
+    cpu_shares: 1023
+    mem_limit: 980MB
+    ports:
+      - "8081:8091"
+    command: bash -c "dotnet catalino.dll"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://0.0.0.0:8091
+     logging:
+       driver: syslog
+       options:
+        syslog-address: "udp://logs2.papertrailapp.com:52151"
