@@ -1,0 +1,112 @@
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.AssemblyReference.cache
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\App.g.cs
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.cache
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.lref
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe.config
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.baml
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.g.resources
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.Properties.Resources.resources
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.GenerateResource.cache
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CoreCompileInputs.cache
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\DotnetAPI\DotnetAPI\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\App.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.lref
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe.config
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.baml
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.g.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.Properties.Resources.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.GenerateResource.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CoreCompileInputs.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CopyComplete
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.AssemblyReference.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe.config
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.AssemblyReference.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\Login.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\App.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.lref
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\Login.baml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.baml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.g.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.Properties.Resources.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.GenerateResource.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CoreCompileInputs.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CopyComplete
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.xml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe.config
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.pdb
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.dll
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.dll
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.pdb
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.xml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.pdb
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.xml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.AssemblyReference.cache
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\Login.g.cs
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.g.cs
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\App.g.cs
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.cache
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.lref
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\Login.baml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\MainWindow.baml
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.g.resources
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.Properties.Resources.resources
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.GenerateResource.cache
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CoreCompileInputs.cache
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CopyComplete
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.exe
+D:\VisualStudioWS\SIMAppFrontendWPF\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe.config
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\SIMAppFrontendWPF.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.Core.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.pdb
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\AWSSDK.SimpleSystemsManagement.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.AssemblyReference.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\Login.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\App.g.cs
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF_MarkupCompile.lref
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\Login.baml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\MainWindow.baml
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.g.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.Properties.Resources.resources
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.GenerateResource.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CoreCompileInputs.cache
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.csproj.CopyComplete
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.exe
+C:\Users\Nafi-Wafi\source\repos\SIMApp_Final_Workable\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF (With parameter Store)\SIMAppFrontendWPF\obj\Debug\SIMAppFrontendWPF.pdb

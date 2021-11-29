@@ -1,0 +1,29 @@
+﻿<Window x:Class="SIMAppFrontendWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMAppFrontendWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Button x:Name="View_all" Content="View All Entries" HorizontalAlignment="Left" Margin="256,277,0,0" VerticalAlignment="Top" Height="29" RenderTransformOrigin="0.5,0.5" Width="242" Click="View_all_Click_1Async"/>
+        <TextBox x:Name="tb_user_name" HorizontalAlignment="Left" Height="23" Margin="530,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="117"/>
+        <Button x:Name="Filtered_entry" Content="Filtered View" HorizontalAlignment="Left" Margin="652,116,0,0" VerticalAlignment="Top" Height="25" RenderTransformOrigin="0.5,0.5" Width="120" Click="Filtered_entry_Click"/>
+        <Button x:Name="New_entry" Content="New Entry" HorizontalAlignment="Left" Margin="320,444,0,0" VerticalAlignment="Top" Height="30" RenderTransformOrigin="0.5,0.5" Width="168" Click="New_entry_Click"/>
+        <TextBox x:Name="tb_edit_entry_id" HorizontalAlignment="Left" Height="31" Margin="78,444,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" />
+        <Button x:Name="Edit_entry" Content="Edit Entry" HorizontalAlignment="Left" Margin="150,444,0,0" VerticalAlignment="Top" Height="31" RenderTransformOrigin="0.5,0.5" Width="95" Click="Edit_entry_Click"/>
+        <TextBox x:Name="tb_del_entry_id" HorizontalAlignment="Left" Height="23" Margin="531,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117" />
+        <Button x:Name="del_entry" Content="Del Entry" HorizontalAlignment="Left" Margin="653,179,0,0" VerticalAlignment="Top" Height="25" RenderTransformOrigin="0.5,0.5" Width="120" Click="del_entry_Click"/>
+        <TextBox x:Name="txtbox" HorizontalAlignment="Left" Height="222" Margin="25,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="473"/>
+        <Label Content="API Server Response" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top"/>
+        <Label Content="User Input (JSON String)" HorizontalAlignment="Left" Margin="4,296,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tb_user_input" HorizontalAlignment="Left" Height="114" Margin="25,325,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="475" />
+        <Label Content="Enter ID" HorizontalAlignment="Left" Height="25" Margin="530,93,0,0" VerticalAlignment="Top" Width="155"/>
+        <Label Content="Enter ID" HorizontalAlignment="Left" Height="25" Margin="530,160,0,0" VerticalAlignment="Top" Width="155"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="50,446,0,0" VerticalAlignment="Top"/>
+
+
+
+    </Grid>
+</Window>
